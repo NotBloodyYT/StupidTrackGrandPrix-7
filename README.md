@@ -1,2 +1,3 @@
 # StupidTrackGrandPrix-7
-more chaotic version of mk7 (in development!)
+more chaotic version of ctgp7 (in development!)
+original creator: @pablomk7
